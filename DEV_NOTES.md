@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Removed unused variable declarations
 - Updated dependencies to latest stable versions
+
+## 2026-03-22
+- Updated license year
