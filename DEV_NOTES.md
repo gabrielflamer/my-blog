@@ -14,3 +14,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Investigated performance bottleneck, noted findings
 - Added CONTRIBUTING.md stub
+
+## 2026-03-23
+- Reviewed security headers configuration
