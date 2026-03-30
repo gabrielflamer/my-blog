@@ -20,3 +20,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-30
 - Fixed off-by-one error in loop
+
+## 2026-03-30
+- Removed unused variable declarations
+- Updated license year
