@@ -24,3 +24,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Removed unused variable declarations
 - Updated license year
+
+## 2026-04-06
+- Ran linter, applied auto-fixes
+- Checked for memory leaks in long-running path
+- Improved error handling in edge cases
